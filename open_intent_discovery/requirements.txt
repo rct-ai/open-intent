@@ -30,7 +30,7 @@ idna==3.2
 importlib-metadata==3.7.3
 jedi==0.17.0
 jmespath==0.10.0
-joblib==1.0.1
+joblib==1.2.0
 Keras==2.4.3
 Keras-Preprocessing==1.1.2
 keybert==0.2.0
