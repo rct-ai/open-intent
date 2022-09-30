@@ -5,7 +5,7 @@ charset-normalizer==2.0.4
 easydict==1.9
 idna==3.2
 jmespath==0.10.0
-joblib==1.0.1
+joblib==1.2.0
 mkl-fft==1.2.0
 mkl-random==1.2.0
 mkl-service==2.3.0
